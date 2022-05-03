@@ -1,0 +1,1 @@
+This is a simplified version of patron support for a music artist craftmanship
